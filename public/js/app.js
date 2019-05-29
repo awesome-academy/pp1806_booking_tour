@@ -49437,8 +49437,8 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /home/ducanh/pp1806_booking_tour/resources/js/app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! /home/ducanh/pp1806_booking_tour/resources/sass/app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! /home/tiennam/project1_1/pp1806_booking_tour/resources/js/app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! /home/tiennam/project1_1/pp1806_booking_tour/resources/sass/app.scss */"./resources/sass/app.scss");
 
 
 /***/ })
